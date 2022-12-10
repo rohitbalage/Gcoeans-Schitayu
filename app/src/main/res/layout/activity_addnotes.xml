@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.schitayuapp.rohitgcoea.Addnotes">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/backnotes"
+        android:id="@+id/cameratitle"
+        android:orientation="vertical"
+        android:layout_height="160dp">
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/ednotename"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:drawableStart="@drawable/titleicon"
+            android:drawableLeft="@drawable/titleicon"
+            android:drawablePadding="5dp"
+            android:inputType="textPersonName"
+            android:hint="Enter title" />
+
+        <EditText
+            android:id="@+id/ednotetext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:drawableStart="@drawable/message"
+            android:drawableLeft="@drawable/message"
+            android:drawablePadding="5dp"
+            android:hint="Start writting here..." />
+
+        <Button
+            android:id="@+id/btnsavenote"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save"
+            android:background="@drawable/button_background"
+            android:onClick="process"
+            />
+
+        <Button
+            android:id="@+id/btnshowall"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Show All"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/button_background"
+            android:onClick="process"
+            />
+    </LinearLayout>
+
+</LinearLayout>

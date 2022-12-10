@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "567550874894",
+    "firebase_url": "https://schitayuapp.firebaseio.com",
+    "project_id": "schitayuapp",
+    "storage_bucket": "schitayuapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567550874894:android:aac85559e3edea01",
+        "android_client_info": {
+          "package_name": "com.schitayuapp.rohitgcoea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567550874894-s3jh9mkdckvk80lrit2j5khifc34iift.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.schitayuapp.rohitgcoea",
+            "certificate_hash": "0fd1d8990a6c1bdd59a0f1ba9d79c54e7d2daddc"
+          }
+        },
+        {
+          "client_id": "567550874894-7t4mgt38col932gtmr07v5qq1renqn9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW7FhrBZKSdG5JyCpPjZh0eos-AYdGx7A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567550874894-7t4mgt38col932gtmr07v5qq1renqn9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

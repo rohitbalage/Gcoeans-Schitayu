@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/navcamera"
+            android:title="Camera" />
+        <item
+            android:id="@+id/nav_notes"
+            android:icon="@drawable/navnotes"
+            android:title="TV" />
+        <item
+            android:id="@+id/nav_mydevice"
+            android:icon="@drawable/navdevice"
+            android:title="navdevice" />
+        <item
+            android:id="@+id/nav_flashight"
+            android:icon="@drawable/navtorch"
+            android:title="Flashlight" />
+
+        <item
+            android:id="@+id/nav_call"
+            android:icon="@drawable/navcall"
+            android:title="Call" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/navgallary"
+            android:title="Gallery" />
+
+        <item
+            android:id="@+id/nav_pdfcreator"
+            android:icon="@drawable/navgallary"
+            android:title="Pdf Create" />
+
+
+
+    </group>
+
+    <item android:title="Help us! Grow us !">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/navshare"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_rateapp"
+                android:icon="@drawable/rate"
+                android:title="Rate App" />
+        </menu>
+    </item>
+
+</menu>

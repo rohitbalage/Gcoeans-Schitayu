@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.schitayuapp.rohitgcoea.SMS">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="@drawable/backsms"
+        android:id="@+id/cameratitle"
+        android:orientation="vertical"
+        android:layout_height="160dp">
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_height="wrap_content">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/inbox"
+        android:background="@drawable/button_background"
+        android:layout_marginTop="10dp"
+        android:onClick="sendSMS"
+        android:text="INBOX"
+        android:textColor="@color/white"
+        android:layout_gravity="center_horizontal"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:gravity="start"
+        android:textSize="20sp"
+        android:id="@+id/msg"
+        android:hint="Enter Your Message"
+        />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:textSize="20sp"
+        android:id="@+id/phone"
+        android:layout_marginTop="10dp"
+        android:inputType="phone"
+        android:hint="Enter Your Phone no."
+        />
+
+    <Button
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/idBtnSend"
+        android:layout_gravity="center"
+        android:background="@drawable/sendbutton"
+        android:onClick="sendSMS"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:text="@string/appsms"
+        android:id="@+id/sendmsg"
+        />
+    </LinearLayout>
+
+</LinearLayout>

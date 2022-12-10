@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Schitayu App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Gcoeans Schitayu</string>
+    <string name="nav_header_subtitle">Schitayu@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="share_text">Hey friend , i am using "GCOEAN'S SCHITAYU  APP" This app is what  all we need !(Design and Develop by students of  GCOEA CSE BATCH 2015-2019) this is great have a look : : https://play.google.com/store/apps/details?id=com.rrbofficial.btrapplock </string>
+    <string name="myschitayuupdates">this app is minor project of gcoea CSE 3rd year students (Batch of 2015-2019)namely ,Rohit Balage,Bhagyashri Sawarkar,Tejas Tipre</string>
+    <string name="appsms">(this message is send by using Gcoeans Schitayu App) \n download now :
+        https://play.google.com/store/apps/details?id=com.rrbofficial.btrapplock</string>
+    <string name="rough">dvjnsdjvdjkfvbkjdfbvdbfvjdbvhjbmxfvduvbjhbvdfhfxhjfhxjhmbfhbvdjfbvjdfbvjkdfbvjkdfbvkjdfbvkjdbvjkdfbvjkdfbvkjbdfkvjbdfkvjbdkjfvbdfkvbdfkvjbfkjvnxc,v nfkjvbdfjkvbsfjkvbskjvskdnvbjfbvjfbjkdfbvjkdfbvkjdfbjkdbkxbxfjvbfxj</string>
+    <string name="GcoeansSchitayu">GCOEANS SCHITAYU</string>
+    <string name="title_activity_web">Web</string>
+
+    <string name="aboutapp">The Word "Schitayu" is taken from Russian Language which actually means "I Think" or  "I Beleive" \n
+"Gcoean's Schitayu" is an efforts of CSE 3rd year students of Government College Of Engineering, Amravati.(Batch of 2015-2019) in an idea of collaboration whole android system on one platform.
+"Gcoean's Schitayu" is an minor project of Rohit Balage,Bhagyashri Sawarkar,Tejas Tipre during their academic section (VI Sem Summer 2018).\n later knowing the significance and uniqueness of an app the  project of Schitayu is extended to major one too (August 2018).
+and further the team becomes Strong lead with adding askhay as new member.
+\nThis app invokes the multiple functions that daily user need to be interact.
+\n
+*Wondering about why "Gcoean's Schitayu?
+The word Schitayu means  "Beleive". so as per name extends the developers of an app is mean on beleiving on the concept of collaboration of android system with low RAM uses and battery consumption.</string>
+
+</resources>
