@@ -1,16 +1,15 @@
 # Gcoeans Schitayu 
 
-The world SALEASE comes from two words that is sales and ease. It is an ecommerse app like amazon ebay but having both parties i.e salers and customers on the same platform. This app can be useful for small market areas, cafeteria, college campus. This app was a project part for CIS 634 under the guidance of **Professor Youggijan Fu** in the Cleveland State university, Ohio, USA. 
+It is an app by GCOEAN's student batch of (2015-2019)
 
-this app was made by **Rohit Balage and Harsh Gohil**.
+this app was made by **Rohit Balage, Bhagyashree Sawarkar, Tejas Tipre**.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop"  alt="Gatsby" width="60" height="60"/>&nbsp;
 </div>
 
