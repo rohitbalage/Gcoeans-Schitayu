@@ -1,29 +1,58 @@
-# Gcoeans Schitayu 
+# Gcoean's Schitayu 
 
-It is an app by GCOEAN's student batch of (2015-2019)
+<a href="https://freeimage.host/"><img src="https://iili.io/Hnyb47j.jpg" alt="Hnyb47j.jpg" border="0"></a>
 
-this app was made by **Rohit Balage, Bhagyashree Sawarkar, Tejas Tipre**.
+“Towards Global Technological Excellence”
+
+**"SCHITAYU – AN ANDROID APP"
+For the Degree of Bachelor of Technology By**
+
+:black_small_square:**Bhagyashri Sawarkar (15005016)**
+
+:black_small_square: **Akshay Tagde (15005039)**
+
+:black_small_square: **Rohit Balage (15005026)**
+
+
+Under the Guidance of 
+Prof M.B. Waghmare
+
+
+					 
+
+Department of Computer Science and Engineering
+
+GOVERNMENT COLLEGE OF ENGINEERING, AMRAVATI
+(Au Autonomous Institute of Government of Maharashtra)
+
+(2018-2019)
+
+It was an app made  by Government College of Engineering Amravati, students batch of (2015-2019).
+
+GCOEAN's Schitayu is a multifunctional, multilingual app based on android. The focus of the app was to collaborate the whole android functionalities into one platform.
+
+this app was made by **Bhagyashree Sawarkar, Akshay Tagde, Tejas Tipre, and Rohit Balage**.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 
+
 <div>
- 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop"  alt="Gatsby" width="60" height="60"/>&nbsp;
 </div>
-
 
 ---
 
 
 ## ℹ️ About the Project
 
-Salease is an e-commerce application made for mobile users. Salease name is comes from two words i.e., sales and ease. The basic idea behind the application is to make sure that the sellers and customers can fully understand and utilize their best of experience into sales and purchase. 
+Schitayu is a multifunctional app which works mainly with functions of android that the daily users needs to be interact.it includes the to work with camera application , user private ntes ,flashlight ,Gallery ,sednig a msg , inbox , watching tv,finding cricket scores , social networks ,for study tutoriasl point ,changing the status of phone , indicating battry level , and so on. 
+It also provides the features of android services by google authority such as  finding the device id, operator details ,device info.
+The schitayu app also provides a facility for GCOEA students that to be needed to touth with athe official gcoea site for updates.
 
-Salease app majorly focuses on community of small businesses, college cafeterias, small markets, local sellers, and local users. This app fills the bridge between customers and sellers by embedding sellers and customers on one platform. A seller can be a customer and customers can be sellers. This app is made available for both the mobile platforms i.e iOS and Android. This app is made with Flutter technology and database of Firebase. 
-
-The app targets for small communities and small markets and individual local sellers. The app is for bringing change in selling and purchasing assets. The app is best suited for someone who wants to sell their local products online. The app features varied categories from electronics to material goods. It enables users to purchase and search their favorite categories and allow them to buy via cash on delivery, PayPal, and Mastercard/Visa card. 
 
 ---
 
@@ -33,9 +62,8 @@ The app targets for small communities and small markets and individual local sel
   
   ### Step-by-step instructions for setting up Gcoean's Schitayu
   
-  1. Sign in to **Google Firebase** 
-  2. Visit [this link](https://docs.flutter.dev/get-started/install) to download **Flutter SDK** 
-  3. Visit [this link]https://developer.android.com/studio) to download **Android Studio.** 
+  1. Visit [this link](https://www.oracle.com/java/technologies/downloads/) to download **JDK** 
+  2. Visit [this link]https://developer.android.com/studio) to download **Android Studio.** 
   3. Pull Project from Github link
   4. Run in your emulator or phone
 
