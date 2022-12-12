@@ -15,7 +15,7 @@ For the Degree of Bachelor of Technology By**
 
 
 Under the Guidance of 
-Prof M.B. Waghmare
+**Prof M.B. Waghmare**
 
 
 					 
